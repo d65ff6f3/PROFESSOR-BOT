@@ -152,6 +152,7 @@ these are the extra features of this bot
     
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {a}(<code>{b}</code>)</b>
 <b>᚛› 𝐆 𝐈𝐃 ⪼ @{c}
+<b>✯ Group Link : {b}(<href=https://t.me/GROUPLINK></TEXT>)</a>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ {d}</b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {e}</b>
 
